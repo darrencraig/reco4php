@@ -1,5 +1,5 @@
 {
-    "name": "graphaware/reco4php",
+    "name": "darrencraig/reco4php",
     "description": "Neo4j based Recommendation Engine Framework for PHP",
     "type": "library",
     "license": "Apache-2.0",
@@ -7,6 +7,10 @@
         {
             "name": "GraphAware Limited",
             "email": "reco4php@graphaware.com"
+        },
+        {
+          "name": "Darren Craig",
+          "email": "darrencraig+github@gmail.com"
         }
     ],
     "require": {
