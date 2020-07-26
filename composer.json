@@ -14,7 +14,7 @@
         }
     ],
     "require": {
-        "php": "^7.0",
+        "php": "^7.0 || ^7.1 || ^7.2",
         "graphaware/neo4j-php-client": "^4.8",
         "symfony/event-dispatcher": "^2.7 || ^3.0 || ^4.0 || ^5.0",
         "psr/log": "^1.1",
